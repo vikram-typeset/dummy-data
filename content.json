@@ -1,0 +1,599 @@
+{
+  "name": "APA - American Psychological Association",
+  "acronym": "APA",
+  "sections": [
+    {
+      "section_key": "how_it_works",
+      "section_data": {
+        "header": [
+          { "type": "text", "content": "Here's how SciSpace " },
+          { "type": "text", "content": "APA ", "color": "secondary" },
+          { "type": "text", "content": "works" }
+        ],
+        "subheader": [
+          {
+            "type": "text",
+            "content": "Creating your references is about as easy as it gets with SciSpace. Just follow these simple steps below:"
+          }
+        ],
+        "main_content": [
+          {
+            "type": "table",
+            "content": [
+              {
+                "key": [
+                  { "type": "icon", "content": "🔎" },
+                  {
+                    "type": "text",
+                    "content": "Locate the source material you want to cite"
+                  }
+                ],
+                "value": [
+                  {
+                    "type": "text",
+                    "content": "Journal article, Conference Proceeding, Webpage, Books"
+                  }
+                ]
+              },
+              {
+                "key": [
+                  { "type": "icon", "content": "📝" },
+                  {
+                    "type": "text",
+                    "content": "Select the citation format"
+                  }
+                ],
+                "value": [
+                  {
+                    "type": "text",
+                    "content": "APA 6th edition or APA 7th edition"
+                  }
+                ]
+              },
+              {
+                "key": [
+                  { "type": "icon", "content": "📝" },
+                  {
+                    "type": "text",
+                    "content": "Edit or add metadata via these methods"
+                  }
+                ],
+                "value": [
+                  {
+                    "type": "text",
+                    "content": "1. Copy and paste raw text from any website\n2. Use the search bar to find the source by URL, DOI, or ISBN\n3. Input field values directly"
+                  }
+                ]
+              },
+              {
+                "key": [
+                  { "type": "icon", "content": "📝" },
+                  {
+                    "type": "text",
+                    "content": "Click 'Generate Citation'"
+                  }
+                ],
+                "value": [
+                  {
+                    "type": "text",
+                    "content": "Get APA in-text citations and reference entries in seconds — without  any ads"
+                  }
+                ]
+              },
+              {
+                "key": [
+                  { "type": "icon", "content": "📝" },
+                  {
+                    "type": "text",
+                    "content": "Save and export citation"
+                  }
+                ],
+                "value": [
+                  {
+                    "type": "text",
+                    "content": "Download the output in BibTex format or copy the text for free"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "note": [
+          {
+            "type": "text",
+            "content": "To dive deeper into the APA citation style, check out our dedicated guide "
+          },
+          {
+            "type": "link",
+            "content": "https://typeset.io/resources/apa-citation-apa-format-the-ultimate-guide-to-writing-better-research-papers/",
+            "text": "here."
+          }
+        ]
+      }
+    },
+    {
+      "section_key": "benefits",
+      "section_data": {
+        "header": [
+          {
+            "type": "text",
+            "content": "Cite it right: ",
+            "color": "secondary"
+          },
+          {
+            "type": "text",
+            "content": "simplify referencing with our APA citation generator"
+          }
+        ],
+        "subheader": [
+          {
+            "type": "text",
+            "content": "Let AI do the heavy lifting and reduce the time spent creating and managing your APA citations and references."
+          }
+        ],
+        "primary_banner": {
+          "header": [
+            {
+              "type": "text",
+              "content": "Generate "
+            },
+            {
+              "type": "text",
+              "content": "accurate {{APA}} ",
+              "color": "secondary"
+            },
+            {
+              "type": "text",
+              "content": "citations instantly"
+            }
+          ],
+          "subheader": [
+            {
+              "type": "text",
+              "content": "Paste content or enter the source URL and our AI will scan, capture, and categorize the relevant info to generate in-text and bibliographic in seconds — no more missing details or manually filling boxes and fields. "
+            }
+          ]
+        },
+        "secondary_banner": {
+          "header": [
+            {
+              "type": "text",
+              "content": "Speed up",
+              "color": "secondary"
+            },
+            {
+              "type": "text",
+              "content": " in-text citation"
+            }
+          ],
+          "subheader": [
+            {
+              "type": "text",
+              "content": "Let our AI take care of in-text citation formatting so you can focus on writing. Our AI scans what you've already written and offers relevant autocompletion suggestions as per the {{citation style name}}."
+            }
+          ]
+        },
+        "main_content": [
+          {
+            "title": [{ "type": "text", "content": "Proceed with confidence" }],
+            "content": [
+              {
+                "type": "text",
+                "content": "Submit assignments, papers, or essays confidently, knowing our AI is trained on the latest {{citation style name}} guidelines and manuscripts. You no longer have to sift the internet for {{citation style name}} citation examples."
+              }
+            ]
+          },
+          {
+            "title": [
+              {
+                "type": "text",
+                "content": "Refer to different types of sources"
+              }
+            ],
+            "content": [
+              {
+                "type": "text",
+                "content": "Cite websites, books, book chapters, articles, and press releases, in APA format — with just a few clicks. More sources to be supported soon."
+              }
+            ]
+          },
+          {
+            "title": [
+              { "type": "text", "content": "Save progress and come back later" }
+            ],
+            "content": [
+              {
+                "type": "text",
+                "content": "Don't wait till the writing process is complete to start working on your bibliography. Generate APA style in-text citations and reference entries as you go, and save them, so you don’t miss any sources."
+              }
+            ]
+          },
+          {
+            "title": [{ "type": "text", "content": "Easily export to BibTeX" }],
+            "content": [
+              {
+                "type": "text",
+                "content": "Using LatTeX for document preparation? No problem! Just export the APA formatted output directly as BibTex files and add them to your project without hassle."
+              }
+            ]
+          },
+          {
+            "title": [
+              {
+                "type": "text",
+                "content": "Complete your bibliography for free"
+              }
+            ],
+            "content": [
+              {
+                "type": "text",
+                "content": "Our APA citation generator is free to use. So, you can turn your sources into accurately formatted APA in-text citations and reference list entries without spending anything."
+              }
+            ]
+          },
+          {
+            "title": [
+              { "type": "text", "content": "Enjoy a clutter-free experience" }
+            ],
+            "content": [
+              {
+                "type": "text",
+                "content": "No ads or annoying pop-ups to deal with — just a top-of-the-line, AI-powered APA citation generator that takes you through the whole process in fewer steps and less time."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "section_key": "features",
+      "section_data": {
+        "header": [
+          {
+            "type": "text",
+            "content": "What's cool about our "
+          },
+          {
+            "type": "text",
+            "content": "free APA format generator",
+            "color": "secondary"
+          }
+        ],
+        "subheader": [
+          {
+            "type": "text",
+            "content": "We've taken the tedium from creating citations while offering you a fast and simple way out. "
+          }
+        ],
+        "main_content": [
+          {
+            "type": "text",
+            "content": "No headache of adding inputs in individual fields — we\"ll automatically structure it for you"
+          },
+          {
+            "type": "text",
+            "content": "Generate APA 7th edition citations without always keeping up with the latest guidelines"
+          },
+          {
+            "type": "text",
+            "content": "One click for both APA in-text and reference entry citations"
+          },
+          {
+            "type": "text",
+            "content": "No ads, no interruptions in your workflow"
+          },
+          {
+            "type": "text",
+            "content": "Save your APA citations and create a library once you sign up"
+          }
+        ]
+      }
+    },
+    {
+      "section_key": "checklist",
+      "section_data": {
+        "header": [
+          {
+            "type": "text",
+            "content": "A quick checklist to creating perfectly formatted {{APA citations}}"
+          }
+        ],
+        "subheader": [
+          {
+            "type": "text",
+            "content": "Use this {{APA}} citation checklist to ensure that you start the citation process on a strong foundation, avoid plagiarism, and don't miss out on anything when citing your sources:"
+          }
+        ],
+        "main_content": [
+          {
+            "title": [
+              {
+                "type": "text",
+                "content": "General guidelines for {{citation style name}}:"
+              }
+            ],
+            "guidelines": [
+              {
+                "type": "text",
+                "content": "Every work that you cite must appear in the text as well as the reference list."
+              },
+              {
+                "type": "text",
+                "content": "Whether you're quoting directly or paraphrasing, you must cite the source."
+              },
+              {
+                "type": "text",
+                "content": "Make sure the publication dates and author name spelling match each other in the reference list and in-text citations."
+              },
+              {
+                "type": "text",
+                "content": "Cite only the sources you have used to build a point or an idea in your paper."
+              },
+              {
+                "type": "text",
+                "content": "In order to maintain legibility, cite only those sources that support your immediate point."
+              },
+              {
+                "type": "text",
+                "content": "While citing a specific part of the source, include the specific information in addition to the author-date citation."
+              },
+              {
+                "type": "text",
+                "content": "Credit sources, even if they are hard to trace."
+              }
+            ]
+          },
+          {
+            "title": [
+              {
+                "type": "text",
+                "content": "General guidelines for {{citation style name}}:"
+              }
+            ],
+            "guidelines": [
+              {
+                "type": "text",
+                "content": "Every work that you cite must appear in the text as well as the reference list."
+              },
+              {
+                "type": "text",
+                "content": "Whether you're quoting directly or paraphrasing, you must cite the source."
+              },
+              {
+                "type": "text",
+                "content": "Make sure the publication dates and author name spelling match each other in the reference list and in-text citations."
+              },
+              {
+                "type": "text",
+                "content": "Cite only the sources you have used to build a point or an idea in your paper."
+              },
+              {
+                "type": "text",
+                "content": "In order to maintain legibility, cite only those sources that support your immediate point."
+              },
+              {
+                "type": "text",
+                "content": "While citing a specific part of the source, include the specific information in addition to the author-date citation."
+              },
+              {
+                "type": "text",
+                "content": "Credit sources, even if they are hard to trace."
+              }
+            ]
+          }
+        ],
+        "note": [
+          {
+            "type": "text",
+            "content": "To dive deeper into the APA citation style, check out our dedicated guide"
+          },
+          {
+            "type": "link",
+            "content": "https://typeset.io/resources/apa-citation-apa-format-the-ultimate-guide-to-writing-better-research-papers/",
+            "text": "here."
+          }
+        ]
+      }
+    },
+    {
+      "section_key": "faq",
+      "section_data": {
+        "header": [
+          {
+            "type": "text",
+            "content": "Common questions about referencing your sources in APA style"
+          }
+        ],
+        "subheader": [
+          {
+            "type": "text",
+            "content": "Questions about citing in the APA style are fairly common, especially among students and new researchers. So, we've answered some of the most frequently asked ones below."
+          }
+        ],
+        "main_content": [
+          {
+            "question": [
+              {
+                "type": "text",
+                "content": "What is APA Citation?",
+                "color": "black"
+              }
+            ],
+            "answer": [
+              {
+                "type": "text",
+                "content": "APA citation is a style of referencing source material in the APA style created by the American Psychological Association. It’s widely used in social sciences fields, including psychology, sociology, education, and business.\n\nOver the years, it has also been adopted by several other disciplines including natural sciences (chemistry, physics), arts and humanities (literature), business studies (marketing, finance), etc. The APA style is one of the most commonly used formats in academia and is used when citing sources within research papers."
+              },
+              {
+                "type": "table",
+                "table_caption": [
+                  { "type": "text", "content": "An APA citation examples" }
+                ],
+                "content": [
+                  {
+                    "key": [
+                      {
+                        "type": "text",
+                        "content": "In-text citations",
+                        "font_weight": "bold"
+                      }
+                    ],
+                    "value": [
+                      { "type": "text", "content": "(Camus, 1942, p. 203) [1]" }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "question": [
+              {
+                "type": "text",
+                "content": "How to reference a website in APA style?",
+                "color": "black"
+              }
+            ],
+            "answer": [
+              {
+                "type": "text",
+                "content": "Here's what an APA citation of a website would look like: "
+              },
+              {
+                "type": "blockquote",
+                "content": [
+                  {
+                    "type": "text",
+                    "content": "Author/Group/Organization Name. (Date). Title of page: Subtitle. Website Name. URL"
+                  }
+                ],
+                "citation_source": "website"
+              }
+            ]
+          },
+          {
+            "question": [
+              { "type": "text", "content": "How to ", "color": "black" },
+              {
+                "type": "text",
+                "content": "cite a book ",
+                "color": "secondary"
+              },
+              { "type": "text", "content": "APA style?" }
+            ],
+            "answer": [
+              {
+                "type": "text",
+                "content": "When you\"re citing a book in APA style, use the format - "
+              },
+              {
+                "type": "blockquote",
+                "content": [
+                  {
+                    "type": "text",
+                    "content": "Author name. (Year). Book title. Publisher name"
+                  }
+                ],
+                "citation_source": "book"
+              }
+            ]
+          },
+          {
+            "question": [
+              { "type": "text", "content": "How to ", "color": "black" },
+              {
+                "type": "text",
+                "content": "cite a book ",
+                "color": "secondary"
+              },
+              { "type": "text", "content": "APA style?", "color": "black" }
+            ],
+            "answer": [
+              {
+                "type": "text",
+                "content": "When you\"re citing a book in APA style, use the format - "
+              },
+              {
+                "type": "blockquote",
+                "content": [
+                  {
+                    "type": "text",
+                    "content": "Author name. (Year). Book title. Publisher name "
+                  },
+                  {
+                    "type": "link",
+                    "content": "https://stackoverflow.com/questions/53620422/tailwindcss-svg-icon-wont-resize-properly",
+                    "text": "Youtube!!"
+                  }
+                ],
+                "citation_source": "book"
+              }
+            ]
+          },
+          {
+            "question": [
+              {
+                "type": "text",
+                "content": "What's the difference between citation and attribution?",
+                "color": "black"
+              }
+            ],
+            "answer": [
+              {
+                "type": "text",
+                "color": "black",
+                "content": "Citation is used to credit the developers of works with restricted rights or \"all rights reserved\" and help protect against plagiarism. They usually include the author's name, source title, and publishing date. "
+              },
+              {
+                "type": "blockquote",
+                "content": [
+                  {
+                    "type": "text",
+                    "content": "$example - will be calculated runtime",
+                    "font_style": "italic"
+                  }
+                ],
+                "citation_source": "book",
+                "blockquote_caption": [
+                  {
+                    "type": "text",
+                    "content": "Work cited entry example:",
+                    "font_weight": "bold"
+                  }
+                ]
+              },
+              {
+                "type": "table",
+                "table_caption": [
+                  {
+                    "type": "text",
+                    "content": "APA In-text citation example",
+                    "font_weight": "bold",
+                    "size": "small"
+                  }
+                ],
+                "content": [
+                  {
+                    "key": [{ "type": "text", "content": "In-text citation" }],
+                    "value": [
+                      { "type": "text", "content": "(Camus, 1942, p. 203) [1]" }
+                    ]
+                  },
+                  {
+                    "key": [{ "type": "text", "content": "Footnote" }],
+                    "value": [{ "type": "text", "content": "Smith (2017)" }]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "metadata": {
+    "title": "Effortless APA Citation Generator With Complete APA Guide",
+    "description": "Generate quick and accurate APA citations, save and export them to LaTex with SciSpace's free APA citation generator."
+  },
+  "template_type": "defined"
+}
